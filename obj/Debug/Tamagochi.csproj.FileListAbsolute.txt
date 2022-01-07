@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\Tamagochi\bin\Debug\Tamagochi.exe.config
+C:\Users\pc\source\repos\Tamagochi\bin\Debug\Tamagochi.exe
+C:\Users\pc\source\repos\Tamagochi\bin\Debug\Tamagochi.pdb
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\MainWindow.g.cs
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi_MarkupCompile.cache
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi_MarkupCompile.lref
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\MainWindow.baml
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.g.resources
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.Properties.Resources.resources
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.exe
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\Tamagochi.pdb
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\VentanaBienvenida.g.cs
+C:\Users\pc\source\repos\Tamagochi\obj\Debug\VentanaBienvenida.baml
